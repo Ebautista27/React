@@ -1,0 +1,16 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #1976d2;
+}
+
+footer {
+  background-color: #ccc;
+  padding: 1em;
+  text-align: center;
+}
